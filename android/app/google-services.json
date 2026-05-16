@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "440267938999",
+    "firebase_url": "https://landpropdb-default-rtdb.firebaseio.com",
+    "project_id": "landpropdb",
+    "storage_bucket": "landpropdb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440267938999:android:9e1aa82ed1d447a4044132",
+        "android_client_info": {
+          "package_name": "com.landprop.landprop_fe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440267938999-lij8iise2rkp0a9sbal7eo5cn7ne7f9p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlqjEMBoLdRx9_Wctp_3MJ5ucOOCwXVNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440267938999-lij8iise2rkp0a9sbal7eo5cn7ne7f9p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
